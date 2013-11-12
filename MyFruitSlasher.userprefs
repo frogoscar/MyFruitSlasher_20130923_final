@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\level1\FruitCreate.cs">
+    <Files>
+      <File FileName="Assets\script\level1\FruitCreate.cs" Line="18" Column="38" />
+      <File FileName="Assets\script\start\start.cs" Line="25" Column="5" />
+      <File FileName="Assets\script\start\end.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\level1\xDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\level1\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\level1\Level1ScoreGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\level1\Level1SoundGUI.cs" Line="23" Column="18" />
+      <File FileName="Assets\NGUI\Scripts\UI\UIStretch.cs" Line="209" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
